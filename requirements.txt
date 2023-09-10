@@ -1,0 +1,7 @@
+wheel
+gunicorn
+flask
+pillow
+displayhatmini
+RPi.GPIO
+spidev
